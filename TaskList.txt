@@ -1,0 +1,4 @@
+* Task List *
+1. Get Repo to local
+2. Pull request test
+3. Push request test
